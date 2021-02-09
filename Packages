@@ -1,0 +1,19 @@
+Package: kr.xsf1re.vnodebypass
+Name: vnodebypass
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: XsF1re
+Author: XsF1re
+Section: System
+Tag: role::hacker
+Version: 0.1.1
+Installed-Size: 136
+Filename: debs/kr.xsf1re.vnodebypass_0.1.1_iphoneos-arm.deb
+Depiction: https://CYD14-SP4C3.github.io/depictions/kr.xsf1re.vnodebypass.html
+Icon: https://CYD14-SP4C3.github.io/icons/kr.xsf1re.vnodebypass.png
+Size: 11106
+MD5sum: e8d064d59b3292c379d1c2813139bef6
+SHA1: 172de87e0fdd9753793ef520119278385287d24a
+SHA256: 832bc570f97956ddabc163e141df382df9747f7bdeba14c0b257adf63a7c0035
+SHA521: f1114fd6c2456d3143d12d118dfca4fc791654fded12759b9ee3d664c970bc5998a583ea99b9c862ae9584438fe1e8729ec65ba5e83bb2dcb711b119cd218312
+

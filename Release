@@ -1,0 +1,8 @@
+Origin: Repo Manager Deluxe Default Origin
+Label: CYD14-SP4C3
+Suite: stable
+Version: 1.0
+Codename: CydiaSpacev1
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia-Space! A Place For All iOS 14 Needs!
