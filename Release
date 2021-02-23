@@ -1,8 +1,8 @@
-Origin: Repo Manager Deluxe Default Origin
-Label: CYD14-SP4C3
+Origin: CYD14-SP4C3 Repo
+Label: CYD14-SP4C3 Repo
 Suite: stable
 Version: 1.0
-Codename: CydiaSpacev1
+Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: Cydia-Space! A Place For All iOS 14 Needs!
+Description: CYD14-SP4C3 Repo by @_Blacktail.
