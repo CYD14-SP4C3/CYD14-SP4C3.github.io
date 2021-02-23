@@ -13,3 +13,17 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.w
 Author: CokePokes
 Name: AppStore++
 
+Package: 69e4b80a85da6c9e52d2c58428fd790b
+Version: 2.0.0.3
+Architecture: iphoneos-arm
+Maintainer: Blacktail 
+Depends: mobilesubstrate
+Filename: ./debs/69e4b80a85da6c9e52d2c58428fd790b.deb
+Size: 209896
+MD5sum: 4698532c90ffff740855605e2a671da1
+SHA1: 69c488d50b280450a6492f4e89d1ab92328cc01c
+SHA256: 60c5d37603aa1dbc19d938167d20bd863eb9230dc9f7e3ed93491ae4bd6a2d36
+Section: Tweaks
+Description: YouTube Customizer.
+Author: SarahH12099
+Name: YouTube Reborn
