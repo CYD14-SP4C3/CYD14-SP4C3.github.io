@@ -1,7 +1,7 @@
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.14-7
 Architecture: iphoneos-arm
-Maintainer: Blacktail 
+Maintainer: Blacktail
 Depends: mobilesubstrate
 Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.14-7_iphoneos-arm.deb
 Size: 3012860
@@ -16,7 +16,7 @@ Name: AppStore++
 Package: 69e4b80a85da6c9e52d2c58428fd790b
 Version: 2.0.0.3
 Architecture: iphoneos-arm
-Maintainer: Blacktail 
+Maintainer: Blacktail
 Depends: mobilesubstrate
 Filename: ./debs/69e4b80a85da6c9e52d2c58428fd790b.deb
 Size: 209896
