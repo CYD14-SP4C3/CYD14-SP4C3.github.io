@@ -1,8 +1,8 @@
-Origin: CYD14-SP4C3 Repo
-Label: CYD14-SP4C3 Repo
+Origin: CYD14-SP4C3
+Label: CYD14-SP4C3
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: CYD14-SP4C3 Repo by @_Blacktail.
+Description: CYD14-SP4C3 Repo by Blacktail.
