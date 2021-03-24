@@ -1,29 +1,29 @@
 Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
 Version: 0.9.14-7
 Architecture: iphoneos-arm
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14
 Maintainer: @_Blacktail <Hydrospectical@gmail.com>
+Author: CokePokes
+Section: Tweaks
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.14-7_iphoneos-arm.deb
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.14-7_iphoneos-arm.deb
 Size: 3012860
 MD5sum: d6410c756335e0d9ee36f343446567f0
 SHA1: ecbfc3afbae177b7c011f6dd231b0a3f517c7c86
 SHA256: ee80b7b29b82716b887217238500466db08d51113e3d7182ec8ef5cef761490e
-Section: Tweaks
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.
-Author: CokePokes
-Name: AppStore++
 
 Package: org.thebigboss.anilaunch
+Name: Anilaunch
 Version: 1.1.10
 Architecture: iphoneos-arm
+Description: Animate icons on various actions
 Maintainer: @_Blacktail <Hydrospectical@gmail.com>
+Author: Merdok
+Section: Tweaks
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./debs/anilaunch_1.1.10.deb
+Filename: debs/anilaunch_1.1.10.deb
 Size: 167660
 MD5sum: 2b08c4a05cc50e47ba55c66da17bef4a
 SHA1: 47f8c94c638c6672a418ac07a9ddebc6466e9350
 SHA256: 4a2a35a38a7b86a545f8b0c947bf7fe04b5b8c3d6024b31e60b372f52bb78ace
-Section: Tweaks
-Description: Animate icons on various actions.
-Author: Merdok
-Name: Anilaunch
