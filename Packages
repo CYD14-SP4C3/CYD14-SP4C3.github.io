@@ -1,9 +1,9 @@
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.14-7
 Architecture: iphoneos-arm
-Maintainer: Blacktail
+Maintainer: @_Blacktail <Hydrospectical@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: /com.cokepokes.appstoreplusplus_0.9.14-7_iphoneos-arm.deb
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.14-7_iphoneos-arm.deb
 Size: 3012860
 MD5sum: d6410c756335e0d9ee36f343446567f0
 SHA1: ecbfc3afbae177b7c011f6dd231b0a3f517c7c86
@@ -16,9 +16,9 @@ Name: AppStore++
 Package: org.thebigboss.anilaunch
 Version: 1.1.10
 Architecture: iphoneos-arm
-Maintainer: Blacktail
+Maintainer: @_Blacktail <Hydrospectical@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: /anilaunch_1.1.10.deb
+Filename: ./debs/anilaunch_1.1.10.deb
 Size: 167660
 MD5sum: 2b08c4a05cc50e47ba55c66da17bef4a
 SHA1: 47f8c94c638c6672a418ac07a9ddebc6466e9350
